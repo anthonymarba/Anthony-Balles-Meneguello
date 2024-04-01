@@ -2,7 +2,7 @@ body {
     background-color: bisque;
 }
 section {
-    border: solid 4px white;
+    border: solid 4px bisque;
     border-radius: 30px;
     margin: 5px;
 }
