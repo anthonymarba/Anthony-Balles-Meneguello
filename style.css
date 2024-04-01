@@ -1,5 +1,12 @@
 body {
     background-color: bisque;
 }
-element.style {
+section {
+    border: solid 4px white;
     border-radius: 30px;
+    margin: 5px;
+}]
+img{
+    width: 45%;
+    border-radius: 30px;
+}
