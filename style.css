@@ -13,3 +13,11 @@ img{
 footer{
     background-color: rgb(255, 161, 73)
 }
+
+#equipe{
+    display: flex;
+    grid-template-columns: 33% 33% 33%;
+    background-color: rgb(255, 161, 73);
+    text-align: center;
+}
+    
